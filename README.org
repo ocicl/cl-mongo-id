@@ -1,0 +1,10 @@
+* cl-mongo-id
+
+MongoDB ObjectId generator/parser for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/orthecreedence/cl-mongo-id.git   |
+| commit  | b7e505e  |
+| systems | cl-mongo-id |
+|---------+-------------------------------------------|
+
